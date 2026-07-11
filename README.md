@@ -1,6 +1,8 @@
 # 雅思学术类备考资料包 · IELTS Academic Prep Materials
 
-一套自用整理的雅思学术类(IELTS Academic)备考材料,包含完整备考手册 PDF 和两个带字幕的音频练习视频。
+一套整理好的雅思学术类(IELTS Academic)备考材料,包含完整备考手册 PDF 和两个带字幕的音频练习视频。
+
+由 **[SciDraw AI](https://sci-draw.com)** 整理并开源。
 
 ## 内容
 
@@ -20,4 +22,4 @@
 
 ## 许可 License
 
-本仓库内容以 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可发布:允许署名后自由分享与修改,**禁止商业用途**。详见 [LICENSE](LICENSE)。
+本仓库内容以 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可发布:允许自由分享与修改,须署名 **SciDraw AI ([sci-draw.com](https://sci-draw.com))**,**禁止商业用途**。详见 [LICENSE](LICENSE)。
